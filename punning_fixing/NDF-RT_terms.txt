@@ -1,0 +1,12 @@
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#Display_Name
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#UMLS_CUI
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#NUI
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#MeSH_DUI
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#MeSH_CUI
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#Synonym
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#RxNorm_Name
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#RxNorm_CUI
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#MeSH_Name
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#MeSH_Definition
+
+#These are data properties in NDF-RT, but MicrO was using them mostly as annotation properties, so I deleted data properties from MicrO to keep the relations between some classes with these annotation properties
