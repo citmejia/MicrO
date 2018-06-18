@@ -1,4 +1,15 @@
 # MicrO
+
+Here is a version of MicrO where punning violations are fixed.
+
+I had to change some imports declarations, since most "illegal reuse of entities" happened in properties imported from RO, OBI, and NDF-RT. What I did was:
+
+1) Conflictual imports from RO and OBI were some object properties that used the same IRI as some annotation properties. I deleted annotation properties to preserve relations between classes using those object properties. As result, all metadata of the object properties (label, definition, etc.) was lost. Thus, I extracted corresponding terms from original ontologies and merged them with MicrO. Almost everything was restored except for metadata of BFO_0000055 and BFO_0000054.
+
+2) Conflictual imports from NDF-RT were some data properties that used the same IRI as some annotation properties. I deleted data properties to preserve metadata of classes that used corresponding annotation properties. However, in NDF-RT, these were actually data properties. So I don't know if there is going to be a problem.
+
+3) There were a few MicrO object properties that were also annotation properties. I deleted annotation properties and fixed by hand the metadata of corresponding object properties.
+
 An Ontology of Prokaryotic Phenotypic and Metabolic Characters, version 1.5 (released Jan 23, 2018) .
 
 
