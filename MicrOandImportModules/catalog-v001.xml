@@ -2,26 +2,27 @@
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl" uri="file:/Users/citlallimejiaalmonte/Documents/ECCO/ontologies/MICRO/Fixing_logic/bfo_import.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/BSPO.owl" uri="BSPO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/CHMO.owl" uri="CHMO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/CL.owl" uri="CL_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/DRON_imports.owl" uri="DRON_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/ENVO_imports.owl" uri="ENVO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/GO.owl" uri="GO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/IAO.owl" uri="IAO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/IDO.owl" uri="IDO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/NCBI_imports.owl" uri="NCBITax_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/NDF-RT.owl" uri="NDF-RT_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/OBI.owl" uri="OBI_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/PATO.owl" uri="PATO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/PO.owl" uri="PO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/PR_imports.owl" uri="PR_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/REO_imports.owl" uri="REO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/RO.owl" uri="RO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/Uberon.owl" uri="Uberon_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/kkoz3j3y.owl" uri="FMA_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://ontofox.hegroup.org/wmsejwzb.owl" uri="ChEBI_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://purl.obolibrary.org/obo/bfo.owl" uri="BFO_imports.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1543527877152" name="http://www.semanticweb.org/geomicro/ontologies/2013/7/untitled-ontology-15" uri="MicrO.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/BSPO.owl" uri="BSPO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/CHMO.owl" uri="CHMO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/CL.owl" uri="CL_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/DRON_imports.owl" uri="DRON_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/ENVO_imports.owl" uri="ENVO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/GO.owl" uri="GO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/IAO.owl" uri="IAO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/IDO.owl" uri="IDO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/NCBI_imports.owl" uri="NCBITax_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/NDF-RT.owl" uri="NDF-RT_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/OBI.owl" uri="OBI_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/PATO.owl" uri="PATO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/PO.owl" uri="PO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/PR_imports.owl" uri="PR_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/REO_imports.owl" uri="REO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/RO.owl" uri="RO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/Uberon.owl" uri="Uberon_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/kkoz3j3y.owl" uri="FMA_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://ontofox.hegroup.org/wmsejwzb.owl" uri="ChEBI_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://purl.obolibrary.org/obo/MicrO.owl" uri="MicrO_merged_and_fixed.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://purl.obolibrary.org/obo/bfo.owl" uri="BFO_imports.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1547247294074" name="http://www.semanticweb.org/geomicro/ontologies/2013/7/untitled-ontology-15" uri="MicrO.owl"/>
     </group>
 </catalog>
