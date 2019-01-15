@@ -2,7 +2,7 @@
 
 Here is a version of MicrO where punning violations are fixed.
 
-Most of the errores came from imports, so I merged the ontology and reomoved illegal redeclarations one by one using Protégè.
+Most of the errores came from imports, so I created a new file called MicrO_merged_and_fixed in which the ontology is merged and illegal redeclarations removed one by one using Protégè.
 
 1) Conflictual imports from RO and OBI were some object properties that used the same IRI as some annotation properties. I deleted annotation properties to preserve relations between classes using those object properties. As result, all metadata of the object properties (label, definition, etc.) were lost. Thus, I extracted corresponding terms from original ontologies and merged them with MicrO. Almost everything was restored except for metadata of BFO_0000055 and BFO_0000054, since the newest version of BFO does not include these properties anymore.
 
